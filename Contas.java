@@ -1,11 +1,11 @@
 
 public class Contas {
 	
-	public double calculaQuadrado(double x){
+	public int calculaQuadrado(int x){
 		return x*x;
 	}
 	
-	public double calculaCubo(double x){
+	public int calculaCubo(int x){
 		return x*x*x;
 	}
 }
